@@ -68,7 +68,7 @@ export function HeroSection() {
               <div className="absolute inset-0 rounded-full bg-gradient-to-br from-primary via-primary/60 to-accent p-1">
                 <div className="h-full w-full overflow-hidden rounded-full bg-background">
                   <Image
-                    src="/profile.jpg"
+                    src="/placeholder.png"
                     alt="Sunanda Maiti - Full Stack Developer"
                     width={320}
                     height={320}
