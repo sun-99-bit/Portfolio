@@ -83,9 +83,9 @@ export function HeroSection() {
             {/* Quote */}
             <div className="mx-auto mt-8 max-w-sm text-center">
               <p className="text-sm italic leading-relaxed text-muted-foreground/70">
-                {'"Engineering is not only study of 45 subjects but it is moral studies of intellectual life."'}
+                {'“Deciding what not to do is as important as deciding what to do.”'}
               </p>
-              <p className="mt-2 text-sm font-medium text-foreground/60">{"\u2014 Prakhar Srivastav"}</p>
+              <p className="mt-2 text-sm font-medium text-foreground/60">{"\u2014 Steve Jobs"}</p>
             </div>
           </div>
         </div>

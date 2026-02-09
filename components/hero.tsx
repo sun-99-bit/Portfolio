@@ -89,9 +89,9 @@ export function Hero() {
           {/* Quote */}
           <div className="mt-8 text-center">
             <p className="italic text-muted-foreground">
-              {'"Engineering is not only study of 45 subjects but it is moral studies of intellectual life."'}
+              {'“Deciding what not to do is as important as deciding what to do.”'}
             </p>
-            <p className="mt-2 text-sm font-medium text-foreground">{"— Prakhar Srivastav"}</p>
+            <p className="mt-2 text-sm font-medium text-foreground">{"— Steve Jobs"}</p>
           </div>
         </div>
       </div>
