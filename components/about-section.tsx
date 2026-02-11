@@ -8,7 +8,7 @@ const education = [
     level: "Graduation",
     institution: "Haldia Institute of Technology, MAKAUT",
     year: "2027",
-    score: "CGPA: 8.50 / 10",
+    score: "CGPA: 9.05 / 10",
   },
   {
     icon: School,
